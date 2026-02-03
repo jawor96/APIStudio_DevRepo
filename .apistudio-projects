@@ -3,3 +3,7 @@ projects:
     description: Sample API Studio Project - Dev Purpose.
     tags: []
     lastUpdated: 1768204373323
+  MJ_PL_LatestAINews:
+    description: The project for API, which gets the latest AI news from the IBM Newsroom.
+    tags: []
+    lastUpdated: 1770116936781
