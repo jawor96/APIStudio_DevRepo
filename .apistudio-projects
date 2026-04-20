@@ -7,3 +7,7 @@ projects:
     description: The project for API, which gets the latest AI news from the IBM Newsroom.
     tags: []
     lastUpdated: 1770116936781
+  UserAPI:
+    description: User API genereated by AI Agent.
+    tags: []
+    lastUpdated: 1776680345639
